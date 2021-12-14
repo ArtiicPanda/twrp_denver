@@ -17,4 +17,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-     $(LOCAL_DIR)/omni_denver.mk
+     $(LOCAL_DIR)/twrp_denver.mk
